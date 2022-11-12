@@ -1,0 +1,15 @@
+[uDD::Log][2022-11-12 16:39:09] Start
+[uDD::Log][2022-11-12 16:39:09] OS Version    : 10.0
+[uDD::Log][2022-11-12 16:39:09] Build Number  : 19044
+[uDD::Log][2022-11-12 16:39:09] Service Pack  : 
+[uDD::Log][2022-11-12 16:39:09] Graphics Card [0] : NVIDIA Quadro P5000
+[uDD::Log][2022-11-12 16:39:09]   > Monitor[0] : \\.\DISPLAY1
+[uDD::Log][2022-11-12 16:39:09] Graphics Card [1] : Intel(R) UHD Graphics P630
+[uDD::Log][2022-11-12 16:39:09] Graphics Card [2] : Microsoft Basic Render Driver
+[uDD::Log][2022-11-12 16:39:09] Monitor::Initialized() =>
+[uDD::Log][2022-11-12 16:39:09]     ID    : 0
+[uDD::Log][2022-11-12 16:39:09]     Size  : (2560, 1080)
+[uDD::Log][2022-11-12 16:39:09]     DPI   : (81, 81)
+[uDD::Log][2022-11-12 16:39:09]     Rot   : Landscape
+[uDD::Log][2022-11-12 16:39:09] Duplicator::Initialize() => OK.
+[uDD::Log][2022-11-12 16:40:24] Stop

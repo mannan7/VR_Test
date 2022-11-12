@@ -147,7 +147,7 @@ MonoBehaviour:
   - {fileID: 6791940670369406458}
   - {fileID: 2591860752111968685}
   - {fileID: 3776824405461363411}
-  m_renderMode: 1
+  m_renderMode: 0
   m_depthSubmissionMode: 0
 --- !u!114 &-1570347501755040463
 MonoBehaviour:
@@ -420,7 +420,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 274c02963f889a64e90bc2e596e21d13, type: 3}
   m_Name: HTCViveControllerProfile WSA
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: HTC Vive Controller Profile
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.htcvive
@@ -649,5 +649,5 @@ MonoBehaviour:
   - {fileID: -8938101590345425369}
   - {fileID: 909451753290527928}
   - {fileID: -805596975544506115}
-  m_renderMode: 1
+  m_renderMode: 0
   m_depthSubmissionMode: 0

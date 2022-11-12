@@ -1,2 +1,30 @@
-[uWC::Log][2022-11-10 20:53:21] Start
-[uWC::Log][2022-11-10 20:54:09] Stop
+[uWC::Log][2022-11-12 16:39:09] Start
+[uWC::Err][2022-11-12 16:39:09] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:09] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:09] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:09] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:09] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:09] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:09] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:27] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:27] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:32] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:32] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:34] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:34] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:34] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:34] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:34] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:38] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:38] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:38] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:38] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:38] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:39] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:39] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:39] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:39] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:39:39] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:40:12] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Err][2022-11-12 16:40:15] WindowsGraphicsCapture::CreateItem() threw an WinRT exception: 0x80070057 The parameter is incorrect.
+[uWC::Log][2022-11-12 16:40:25] Stop
